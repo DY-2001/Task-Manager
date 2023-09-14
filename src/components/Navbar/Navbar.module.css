@@ -1,0 +1,7 @@
+.parentNavDiv {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    height: 8.5vh;
+    /* border: 1px solid var(--border-border-subtle, #EBEBEB);  */
+}
