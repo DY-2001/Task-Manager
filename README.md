@@ -1,3 +1,5 @@
+Deployment Link: https://main--peppy-cassata-a3f62b.netlify.app/
+
 ## 1. Adding and Editing Stages:
 
 ### Tables: I will add a new table called Stages to store information about the different stages that users can create and edit for a particular board. This table will include fields like stage_id, board_id, stage_name, and position to maintain the order of stages within a board.
@@ -26,3 +28,4 @@ DELETE /api/comments/:comment_id: To delete a comment.
 Error Responses: I will ensure that my API endpoints return clear and informative error responses with appropriate HTTP status codes (e.g., 400 for bad requests, 404 for not found, 500 for server errors).
 
 Error Messages: I will include descriptive error messages in the response body to help developers and users understand the issue. I will use consistent error formats, such as JSON, for error responses.
+
