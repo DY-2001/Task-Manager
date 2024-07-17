@@ -1,4 +1,4 @@
-Deployment Link: https://main--peppy-cassata-a3f62b.netlify.app/
+Deployment Link: https://peppy-cassata-a3f62b.netlify.app/
 
 ## 1. Adding and Editing Stages:
 
